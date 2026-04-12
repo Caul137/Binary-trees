@@ -49,3 +49,5 @@ tree.insert(9)
 tree.insert(7)
 
 console.log(tree.root)
+
+tree = null
